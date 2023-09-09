@@ -7,6 +7,8 @@ Modes:
 Few Images:
 
 
-![Main](https://github.com/harshnagar/Tic-Tac-Toe-Game-GUI-Using-Python-Tkinter/assets/35253819/e3080164-8b8b-4968-a722-f5d373bcc41c)
-![Won](https://github.com/harshnagar/Tic-Tac-Toe-Game-GUI-Using-Python-Tkinter/assets/35253819/aeac3f53-783b-4756-8601-ee232ff9ed18)
-![Tie](https://github.com/harshnagar/Tic-Tac-Toe-Game-GUI-Using-Python-Tkinter/assets/35253819/36a0ceca-3d2d-41f0-94b8-1497fcd45aea)
+<img width="239" alt="Main" src="https://github.com/harshnagar/Tic-Tac-Toe-Game-GUI-Using-Python-Tkinter/assets/35253819/db9f61f3-3110-4c8e-9791-060603927270">
+
+<img width="239" alt="Won" src="https://github.com/harshnagar/Tic-Tac-Toe-Game-GUI-Using-Python-Tkinter/assets/35253819/157f9968-a523-4fd8-90f4-b6fbb852305e">
+
+<img width="239" alt="Tie" src="https://github.com/harshnagar/Tic-Tac-Toe-Game-GUI-Using-Python-Tkinter/assets/35253819/bb427599-d0eb-4261-a810-353e221ce95d">
